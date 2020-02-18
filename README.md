@@ -1,3 +1,6 @@
+The primary maintainer of this project has not pushed the latest version to NPM, so we cloned and reference this repo directly from projects that need to utilize the updated version (specifically around a webpack bug).
+
+
 dynamodb-update-expression
 ==========================
 
